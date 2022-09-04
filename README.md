@@ -483,6 +483,7 @@
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API 清理和验证
 - [ajv](https://github.com/epoberezkin/ajv) - 最快的 JSON 概要验证器，支持 v5、v6 和v7 方案
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - 简单基础的 JavaScript 和 TypeScript 数据验证器
+- [class-validator](https://github.com/typestack/class-validator) - 使用注解的方式进行类的验证
 
 ### 解析
 
@@ -687,6 +688,7 @@
 - [Acorn](https://github.com/ternjs/acorn) - 轻量、快速的 JavaScript 解析器
 - [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) - 用于 babel 的 JavaScript 解析工具
 - [cherow](https://github.com/cherow/cherow) - 专注于性能和稳定性的 Javascript 解析器
+- [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - 小型的js编译器
 
 ### 静态网站生成
 
